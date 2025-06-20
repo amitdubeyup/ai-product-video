@@ -1,0 +1,66 @@
+# Backend Dependencies
+node_modules/
+npm-debug.log*
+
+# Generated content (videos, images)
+public/videos/*.mp4
+public/videos/*.avi
+public/videos/*.mov
+public/images/*.jpg
+public/images/*.png
+public/images/*.jpeg
+public/images/*.gif
+public/images/*.webp
+
+# Temporary processing files
+temp/
+tmp/
+*.tmp
+
+# Server logs
+logs/
+*.log
+server.log
+error.log
+access.log
+
+# Process files
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables (backend specific)
+.env.local
+.env.production
+.env.development
+
+# FFmpeg processing files
+ffmpeg-*.log
+*.ffmpeg.log
+
+# Image processing cache
+sharp-cache/
+image-cache/
+
+# Node.js runtime
+.npm
+.node_repl_history
+
+# ESLint cache
+.eslintcache
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# PM2 logs
+pm2.log
+ecosystem.config.js
+
+# Keep directory structure but ignore contents
+public/videos/*
+!public/videos/.gitkeep
+public/images/*
+!public/images/.gitkeep
+temp/*
+!temp/.gitkeep 
