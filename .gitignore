@@ -110,9 +110,6 @@ logs
 ehthumbs.db
 Thumbs.db
 
-# AI Video Generator specific
-backend/public/videos/
-backend/public/images/
 backend/temp/
 frontend/build/
 
