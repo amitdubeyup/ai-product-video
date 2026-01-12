@@ -1,7 +1,5 @@
 # Ai Product Video
 
-
-
 ## 📝 About The Project
 Automated content pipeline that transforms product URLs into marketing videos using AI script generation and FFmpeg media synthesis.
 
@@ -11,9 +9,6 @@ Automated content pipeline that transforms product URLs into marketing videos us
 
 ## 🛠️ Tech Stack
 *   **Standard Stack**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Automated content pipeline that transforms product URLs into marketing videos us
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
